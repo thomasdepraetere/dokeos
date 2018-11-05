@@ -1,0 +1,15 @@
+﻿Dokeos Occam code warning
+
+This file is part of the Dokeos Occam E-learning Cloud Services. The code of Dokeos Occam is proprietary
+and private. It is intended for use on the Dokeos Cloud private infrastructure only, as run by the Dokeos
+Company only. It cannot be distributed, sold, licensed, run, executed or shared with anyone else, person or
+company.
+
+Dokeos clients access Dokeos Software Services remotely (through the web) only and never get a copy of
+the code or are allowed to get a copy, whether for free or for sale. Conditions of this remote use of the
+software service are defined by the Contract and/or SLA.
+
+Any person or organization that will copy, distribute, run, execute or modify this code will be suited by the
+Dokeos Company for robbery and, if relevant, for Non Disclosure Agreement infringement.
+
+To contact Dokeos, see documentation/Readme.html
